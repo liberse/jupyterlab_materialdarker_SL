@@ -10,7 +10,8 @@ The extension has now been updated to support JupyterLab 4.x
 
 ## Requirements
 
-- JupyterLab >= 4.0.0
+- JupyterLab >= 4.5.0
+- Python >= 3.9
 
 ## Install
 
