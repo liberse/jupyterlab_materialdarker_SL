@@ -7,15 +7,22 @@
         "jupyterlab",
         "jupyterlab-extension"
     ],
-    "homepage": "https://github.com/oriolmirosa/jupyterlab_materialdarker",
+    "homepage": "https://github.com/liberse/jupyterlab_materialdarker_SL",
     "bugs": {
-        "url": "https://github.com/oriolmirosa/jupyterlab_materialdarker/issues"
+        "url": "https://github.com/liberse/jupyterlab_materialdarker_SL/issues"
     },
     "license": "BSD-3-Clause",
     "author": {
-        "name": "Oriol Mirosa",
-        "email": "oriolmirosa@gmail.com"
+        "name": "Mantenimiento Interno (Fork)", 
+        "email": "tu_email_corporativo@empresa.com"
     },
+    "contributors": [
+        {
+            "name": "Oriol Mirosa",
+            "email": "oriolmirosa@gmail.com",
+            "url": "https://github.com/oriolmirosa"
+        }
+    ],
     "files": [
         "lib/**/*.{d.ts,eot,gif,html,jpg,js,js.map,json,png,svg,woff2,ttf}",
         "style/**/*.{css,js,eot,gif,html,jpg,json,png,svg,woff2,ttf}",
@@ -25,7 +32,7 @@
     "types": "lib/index.d.ts",
     "repository": {
         "type": "git",
-        "url": "https://github.com/oriolmirosa/jupyterlab_materialdarker.git"
+        "url": "https://github.com/liberse/jupyterlab_materialdarker_SL.git"
     },
     "scripts": {
         "build": "jlpm build:lib && jlpm build:labextension:dev",
