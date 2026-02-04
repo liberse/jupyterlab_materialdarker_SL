@@ -1,6 +1,6 @@
 {
     "name": "jupyterlab_materialdarker",
-    "version": "0.8.0",
+    "version": "0.8.0-fork",
     "description": "The Material Darker theme for JupyterLab.",
     "keywords": [
         "jupyter",
